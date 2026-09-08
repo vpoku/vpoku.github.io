@@ -6,3 +6,5 @@ In Dr. Wang's CS 480: Interactive XR Documentaries, we're exploring how XR techn
 
 This site tracks my progress over the coming weeks. I'll be learning across HCI, computer graphics, and critical media studies, and building my own XR experience, all in support of Habitat for Humanity's mission to make housing more accessible!
 
+[timeline incoming...]
+
